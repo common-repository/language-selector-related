@@ -1,0 +1,87 @@
+# Language selector related Spanish Translation
+# Copyright (C) 2014 Ruben Vasallo Gonzalez
+# This file is distributed under the same license as the Wordpress package.
+# Ruben Vasallo <ruben@vasallo.me.uk>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Language selector related 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/language-selector-related/\n"
+"POT-Creation-Date: 2014-02-05 20:32:07+00:00\n"
+"PO-Revision-Date: 2014-02-05 18:42+0200\n"
+"Last-Translator: Ruben Vasallo <ruben@vasallo.me.uk>\n"
+"Language-Team: Ruben Vasallo <ruben@vasallo.me.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: languageselectorrelatedclass.php:178
+msgid "Home Related links"
+msgstr "Enlaces relacionados en la home de la web"
+
+#: languageselectorrelatedclass.php:193
+msgid "Language Selector Relate - Configure related links"
+msgstr "Selector de Idiomas Relacionados - Configurar los enlaces relacionados"
+
+#: languageselectorrelatedclass.php:205
+msgid "Related links"
+msgstr "Enlaces relacionados"
+
+#: languageselectorrelatedclass.php:233
+msgid "Language related links"
+msgstr "Enlaces de idiomas relacionados"
+
+#: languageselectorrelatedclass.php:243
+msgid "Adds links and select the languages and countries for these for show in head web and widget selected zone (only if the widget is active. Only show language in the widget link)"
+msgstr "Añade enlaces y selecciona los idiomas y los países para estos, para que se añadan en la cabecera de la web y en la zona del widget (solo si el widget esta activo. Solo se muestran los idiomas en la zona de widget)"
+
+#: languageselectorrelatedclass.php:244
+msgid "Remember fields URL and Language are required. If you no complete this fields of a row, this row aren't saved."
+msgstr "Recuerda que los campos URL e idioma son obligatorios. Si no completas estos campos de una fila, esta no sera guardada."
+
+#: languageselectorrelatedclass.php:245
+msgid "Add Related link"
+msgstr "Añadir un enlace relacionado"
+
+#: languageselectorrelatedclass.php:258
+msgid "URL"
+msgstr "URL"
+
+#: languageselectorrelatedclass.php:259
+msgid "Language"
+msgstr "Idioma"
+
+#: languageselectorrelatedclass.php:260
+msgid "Country"
+msgstr "País"
+
+#: languageselectorrelatedclass.php:280, 291 & 307
+msgid "Delete link"
+msgstr "Eliminar enlace"
+
+#: languageselectorrelatedclass.php:326
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: languageselectorrelatedclass.php:678
+msgid "Select language for this URL"
+msgstr "Selecciona un idioma para esta URL"
+
+#: languageselectorrelatedclass.php:936
+msgid "Select country for this URL"
+msgstr "Selecciona un país para esta URL"
+
+#: languageselectorrelatedwidget.php:15
+msgid "Language Selector Related Widget"
+msgstr "Selector de idiomas relacionados Widget"
+
+#: languageselectorrelatedwidget.php:16
+msgid "widget that show related languages links"
+msgstr "widget que muestra los enlaces de idiomas relacionados"
+
+#: languageselectorrelatedwidget.php:39
+msgid "Other languages"
+msgstr "Otros idiomas"
